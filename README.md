@@ -209,6 +209,7 @@ Newsletters en español sobre creator economy, marketing digital, producto y neg
 - [LatAm Journalism Review](https://latamjournalismreview.org) — Investigación sobre medios y newsletters LATAM.
 - [ITSitio](https://www.itsitio.com) — Reportes B2B tech para canal LATAM.
 - [Circle — Creator Economy Statistics](https://circle.so/blog/creator-economy-statistics) — Stats actualizados anualmente.
+- [twtData: tendencias de X por país](https://twtdata.com/es/twitter-trends/mexico/) — Archivo gratuito en español y sin registro de las tendencias de X en México, Argentina, Colombia, Chile y más; muestra de qué se habla en cada mercado LATAM.
 - [Goldman Sachs Creator Economy Report](https://www.goldmansachs.com/insights/articles/the-creator-economy-could-approach-half-a-trillion-dollars-by-2027) — Proyección global con contexto LATAM.
 
 ## Legal, impuestos y facturación para freelancers
